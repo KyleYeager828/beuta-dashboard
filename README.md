@@ -1,2 +1,0 @@
-# beuta-dashboard
-beuta-dashboard
